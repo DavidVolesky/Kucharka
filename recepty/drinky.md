@@ -87,11 +87,10 @@ function toggleUnits() {
 ---
 
 ## Blue Hawaii
-* **<span class="unit-ml" data-ml="25">25 ml</span>** vodka
-* **<span class="unit-ml" data-ml="25">25 ml</span>** bílý rum
+* **<span class="unit-ml" data-ml="60">60 ml</span>** bílý rum, nebo bílý rum a vodka 1:1
 * **<span class="unit-ml" data-ml="15">15 ml</span>** likér Blue Curaçao
-* **<span class="unit-ml" data-ml="20">20 ml</span>** šťáva z citronu nebo limetky
-* **<span class="unit-ml" data-ml="10">10 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="30">30 ml</span>** šťáva z citronu nebo limetky
+* **<span class="unit-ml" data-ml="15">15 ml</span>** simple sirup
 * **<span class="unit-ml" data-ml="90">90 ml</span>** ananasová šťáva
 
 **Postup:** Vše vložíme do shakeru, pořádně protřepeme a nalijeme do sklenice s ledem.
