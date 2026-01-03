@@ -1,8 +1,1 @@
-theme: jekyll-theme-merlot
-
-# hlavní menu
-main_nav:
-  - title: "Hlavní jídla"
-    url: /recepty/hlavni-jidla/
-  - title: "Drinky"
-    url: /recepty/drinky/
+remote_theme: just-the-docs/just-the-docs
