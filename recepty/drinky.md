@@ -32,10 +32,6 @@ function toggleUnits() {
 
 ---
 
-# Drinky
-
----
-
 ## Bahama Mama
 * **<span class="unit-ml" data-ml="30">30 ml</span>** tmavý rum (např. Plantation Original Dark)
 * **<span class="unit-ml" data-ml="30">30 ml</span>** kokosový rum nebo vodka (např. Malibu, Espero, Finlandia)
@@ -157,18 +153,18 @@ function toggleUnits() {
 ---
 
 ## Daiquiri
-* **<span class="unit-ml" data-ml="50">50 ml</span>** bílý rum
-* **<span class="unit-ml" data-ml="20">20 ml</span>** limetková šťáva
-* **<span class="unit-ml" data-ml="10">10 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="50">60 ml</span>** bílý rum
+* **<span class="unit-ml" data-ml="20">30 ml</span>** limetková šťáva
+* **<span class="unit-ml" data-ml="10">7.5 ml</span>** simple sirup
 
 **Postup:** Vše vložíme do sklenice s ledem a promícháme (nebo v šejkru).
 
 ---
 
 ## Gimlet
-* **<span class="unit-ml" data-ml="50">50 ml</span>** gin
-* **<span class="unit-ml" data-ml="20">20 ml</span>** limetková šťáva
-* *volitelně:* **<span class="unit-ml" data-ml="7">7 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="50">60 ml</span>** gin
+* **<span class="unit-ml" data-ml="20">30 ml</span>** limetková šťáva
+* *volitelně:* **<span class="unit-ml" data-ml="7">7.5 ml</span>** simple sirup
 
 **Postup:** Vše vložíme do sklenice s ledem a promícháme.
 
@@ -176,7 +172,7 @@ function toggleUnits() {
 
 ## Old Fashioned
 * **<span class="unit-ml" data-ml="60">60 ml</span>** whisky nebo bourbon
-* **<span class="unit-ml" data-ml="8">8 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="8">7.5 ml</span>** simple sirup
 * **2 dash** Angostura Bitters (nebo Tatratea bitters)
 
 **Postup:** Smíchat ve sklenici s ledem (nebo v šejkru). Tradičně ozdobit a zastříknout pomerančovou kůrou.
@@ -184,8 +180,8 @@ function toggleUnits() {
 ---
 
 ## Manhattan
-* **<span class="unit-ml" data-ml="50">50 ml</span>** Whiskey
-* **<span class="unit-ml" data-ml="20">20 ml</span>** sladký červený vermut
+* **<span class="unit-ml" data-ml="50">60 ml</span>** Whiskey
+* **<span class="unit-ml" data-ml="20">30 ml</span>** sladký červený vermut
 * **1 dash** Angostura Bitters (či Tatratea bitters)
 
 **Postup:** Vše smíchat ve sklenici s ledem.
