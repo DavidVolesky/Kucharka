@@ -6,10 +6,38 @@ nav_order: 2
 
 # Drinky
 
+<button onclick="toggleUnits()" id="unitToggle" style="padding: 10px 20px; cursor: pointer; border-radius: 5px; border: 1px solid #ccc; background: #f9f9f9; font-weight: bold;">
+  Přepnout na Oz
+</button>
+
+<script>
+let isOz = false;
+function toggleUnits() {
+  const elements = document.querySelectorAll('.unit-ml');
+  isOz = !isOz;
+  
+  elements.forEach(el => {
+    let val = parseFloat(el.getAttribute('data-ml'));
+    if (isOz) {
+      let ozVal = (val / 30).toFixed(2).replace(/\.00$/, '');
+      el.innerText = ozVal + ' oz';
+    } else {
+      el.innerText = val + ' ml';
+    }
+  });
+  
+  document.getElementById('unitToggle').innerText = isOz ? "Přepnout na Ml" : "Přepnout na Oz";
+}
+</script>
+
+---
+
+# Drinky
+
 ---
 
 ## Bahama Mama
-* **30 ml** tmavý rum (např. Plantation Original Dark)
+* **<span class="unit-ml" data-ml="30">30 ml</span>** tmavý rum (např. Plantation Original Dark)
 * **30 ml** kokosový rum nebo vodka (např. Malibu, Espero, Finlandia)
 * **15 ml** grenadina (případně třešňový sirup)
 * **60 ml** čerstvá pomerančová šťáva
