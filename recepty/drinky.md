@@ -122,7 +122,7 @@ function toggleUnits() {
 ## Queen's Park Swizzle
 * **8 ks** lístků máty
 * **<span class="unit-ml" data-ml="60">60 ml</span>** bílý rum
-* **<span class="unit-ml" data-ml="25">25 ml</span>** limetková šťáva
+* **<span class="unit-ml" data-ml="25">30 ml</span>** limetková šťáva
 * **<span class="unit-ml" data-ml="15">15 ml</span>** simple sirup
 * **2 dash** Angostura Bitters
 * led (drcený nebo kostky)
@@ -146,24 +146,24 @@ function toggleUnits() {
 * **<span class="unit-ml" data-ml="40">40 ml</span>** vodka (Finlandia, Smirnoff Red)
 * **<span class="unit-ml" data-ml="20">20 ml</span>** broskvová vodka/likér (Bols Peach)
 * **<span class="unit-ml" data-ml="60">60 ml</span>** pomerančový džus
-* **<span class="unit-ml" data-ml="90">90 ml</span>** brusinkový džus (průměr z 60–120 ml)
+* **<span class="unit-ml" data-ml="60">60 ml</span>**-**<span class="unit-ml" data-ml="120">120 ml</span>** brusinkový džus
 
 **Postup:** V šejkru s ledem vyšejkrujeme vodky a pomerančový džus. Nalijeme do sklenice. Krouživým pohybem dolijeme brusinkový džus a lehce promíchneme pro barevný přechod.
 
 ---
 
 ## Daiquiri
-* **<span class="unit-ml" data-ml="50">60 ml</span>** bílý rum
-* **<span class="unit-ml" data-ml="20">30 ml</span>** limetková šťáva
-* **<span class="unit-ml" data-ml="10">7.5 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="60">60 ml</span>** bílý rum
+* **<span class="unit-ml" data-ml="30">30 ml</span>** limetková šťáva
+* **<span class="unit-ml" data-ml="7.5">7.5 ml</span>** simple sirup
 
 **Postup:** Vše vložíme do sklenice s ledem a promícháme (nebo v šejkru).
 
 ---
 
 ## Gimlet
-* **<span class="unit-ml" data-ml="50">60 ml</span>** gin
-* **<span class="unit-ml" data-ml="20">30 ml</span>** limetková šťáva
+* **<span class="unit-ml" data-ml="60">60 ml</span>** gin
+* **<span class="unit-ml" data-ml="30">30 ml</span>** limetková šťáva
 * *volitelně:* **<span class="unit-ml" data-ml="7">7.5 ml</span>** simple sirup
 
 **Postup:** Vše vložíme do sklenice s ledem a promícháme.
@@ -172,7 +172,7 @@ function toggleUnits() {
 
 ## Old Fashioned
 * **<span class="unit-ml" data-ml="60">60 ml</span>** whisky nebo bourbon
-* **<span class="unit-ml" data-ml="8">7.5 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="7.5">7.5 ml</span>** simple sirup
 * **2 dash** Angostura Bitters (nebo Tatratea bitters)
 
 **Postup:** Smíchat ve sklenici s ledem (nebo v šejkru). Tradičně ozdobit a zastříknout pomerančovou kůrou.
@@ -180,8 +180,8 @@ function toggleUnits() {
 ---
 
 ## Manhattan
-* **<span class="unit-ml" data-ml="50">60 ml</span>** Whiskey
-* **<span class="unit-ml" data-ml="20">30 ml</span>** sladký červený vermut
+* **<span class="unit-ml" data-ml="60">60 ml</span>** Whiskey
+* **<span class="unit-ml" data-ml="30">30 ml</span>** sladký červený vermut
 * **1 dash** Angostura Bitters (či Tatratea bitters)
 
 **Postup:** Vše smíchat ve sklenici s ledem.
