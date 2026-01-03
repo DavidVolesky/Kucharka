@@ -6,7 +6,6 @@ nav_order: 3
 ---
 
 # Těsto na pizzu
-
 *Základní recept na domácí pizzu. Množství cukru určuje styl výsledného těsta.*
 
 ---
