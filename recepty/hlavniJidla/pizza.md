@@ -1,12 +1,3 @@
-600 g mouky ideálně na pizzu jinak hladká
-360 ml vlažné vody
-3 lžice olivového oleje
-1 lžička cukru *
-15g soli
-Kvasnice
-
-*(ovlivňuje typ pizzy, pro tenkou méně, pro vysokou Neapol klidně lžici
-
 ---
 layout: default
 title: Pizza (Těsto)
