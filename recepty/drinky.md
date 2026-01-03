@@ -46,7 +46,7 @@ function toggleUnits() {
 
 ## Dark ‘n Stormy
 * **<span class="unit-ml" data-ml="60">60 ml</span>** tmavý rum (např. Gosling’s Black Seal, ideálně overproof)
-* **<span class="unit-ml" data-ml="45">45 ml</span>** čerstvě vymačkaná limetková šťáva
+* **<span class="unit-ml" data-ml="15">15 ml</span>** čerstvě vymačkaná limetková šťáva
 * **cca <span class="unit-ml" data-ml="150">150 ml</span>** zázvorové pivo (případně ginger ale)
 
 **Postup:** Šťávu smícháme s pivem, přidáme led a nahoru opatrně nalijeme (klidně přes lžičku) "mráček" rumu. Před konzumací rozmíchat.
@@ -111,8 +111,9 @@ function toggleUnits() {
 * **<span class="unit-ml" data-ml="30">30 ml</span>** limetková/citronová šťáva
 * **8–12 ks** lístků máty (hrst)
 * **2 ČL** třtinový cukr
-* **<span class="unit-ml" data-ml="200">200 ml</span>** soda
 * led (drcený nebo kostky)
+* soda na dolití
+
 
 **Postup:** Vložte mátu (trochu jí pomačkejte), rum, cukr a šťávu. Dobře promíchejte, dokud se cukr nerozpustí. Zasypte ledem a znovu pořádně promíchejte.
 
@@ -154,7 +155,7 @@ function toggleUnits() {
 ## Daiquiri
 * **<span class="unit-ml" data-ml="60">60 ml</span>** bílý rum
 * **<span class="unit-ml" data-ml="30">30 ml</span>** limetková šťáva
-* **<span class="unit-ml" data-ml="7.5">7.5 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="15">15 ml</span>** simple sirup
 
 **Postup:** Vše vložíme do sklenice s ledem a promícháme (nebo v šejkru).
 
@@ -163,7 +164,7 @@ function toggleUnits() {
 ## Gimlet
 * **<span class="unit-ml" data-ml="60">60 ml</span>** gin
 * **<span class="unit-ml" data-ml="30">30 ml</span>** limetková šťáva
-* *volitelně:* **<span class="unit-ml" data-ml="7">7.5 ml</span>** simple sirup
+* *volitelně:* **<span class="unit-ml" data-ml="15">15 ml</span>** simple sirup
 
 **Postup:** Vše vložíme do sklenice s ledem a promícháme.
 
