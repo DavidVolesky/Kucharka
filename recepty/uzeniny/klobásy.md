@@ -1,3 +1,10 @@
+---
+layout: default
+title: Klobásy
+parent: Uzeniny
+nav_order: 1
+---
+
 # Klobásy
 
 ### Obecné zásady výroby

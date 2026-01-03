@@ -1,3 +1,9 @@
+---
+layout: default
+title: Drinky
+nav_order: 2
+---
+
 # Drinky
 
 ---

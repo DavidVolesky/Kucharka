@@ -1,3 +1,9 @@
+---
+layout: default
+title: Likéry
+nav_order: 1
+---
+
 # Likéry
 
 ---
