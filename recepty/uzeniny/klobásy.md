@@ -8,8 +8,11 @@ nav_order: 1
 # Klobásy
 
 ### Obecné zásady výroby
-* **Hygiena a trvanlivost:** Při výrobě většího množství používejte **granulovaný česnek** (čerstvý česnek může způsobit dřívější kysnutí nebo kažení díla).
-* **Teplota:** Teplota díla (masa) nesmí při míchání překročit **12 °C**, aby se nerozpustil tuk a klobása nebyla tzv. **"podlitá"** (tuk vyteče pod střívko).
+
+* **Hygiena a trvanlivost:** Při výrobě většího množství používejte **granulovaný česnek** (čerstvý česnek může způsobit
+  dřívější kysnutí nebo kažení díla).
+* **Teplota:** Teplota díla (masa) nesmí při míchání překročit **12 °C**, aby se nerozpustil tuk a klobása nebyla tzv. *
+  *"podlitá"** (tuk vyteče pod střívko).
 * **Složení:**
     * **Spojka:** Jemně namleté (ideálně kutrované) maso s vodou, které drží klobásu pohromadě.
     * **Vložka:** Hrubě mleté nebo krájené maso na kostičky, které vytváří mozaiku a texturu.
@@ -18,14 +21,17 @@ nav_order: 1
     * **Dextróza:** Podporuje mléčné kvašení u fermentovaných výrobků a stabilitu barvy.
     * **Prášek do pečiva:** Obsahuje fosfáty a škrob, které pomáhají udržet šťávu a pevnost.
         * **Dávkování:** Půl balíčku na 1 kg masa pro výrobky, které se dále tepelně opracovávají.
-        * **Výhoda:** Pomáhá posunout kritickou hranici teploty při míchání, pokud není možné udržet dílo pod 12 °C (např. v letních podmínkách).
+        * **Výhoda:** Pomáhá posunout kritickou hranici teploty při míchání, pokud není možné udržet dílo pod 12 °C (
+          např. v letních podmínkách).
 
 ---
 
 ## 1. Klasické klobásy
 
 ### Ostravská klobása
+
 *Koření na 1 kg masa:*
+
 * 16 g řeznické soli (Pragandy)
 * 5 g cukru
 * 7 g barevného pepře
@@ -36,7 +42,9 @@ nav_order: 1
 ---
 
 ### Valašská klobása
+
 *Koření na 1 kg masa:*
+
 * 16 g řeznické soli
 * 2 g cukru
 * 7 g barevného pepře
@@ -50,9 +58,11 @@ nav_order: 1
 ---
 
 ### Špekáčky
+
 **Příprava:** Jemná spojka a hrubá vložka (**hřbetní sádlo**) v poměru **2:1**. Udit, poté ovařit a prudce zachladit.
 
 *Koření na 1 kg masa:*
+
 * 16 g řeznické soli
 * 2 g cukru
 * 5 g barevného pepře
@@ -64,10 +74,12 @@ nav_order: 1
 ---
 
 ### Käsekrainer (Sýrová klobása)
+
 **Složení masa:** 1 díl hovězí přední, 1 díl bůček, 2 díly krkovice/plec/kýta.
 **Příprava:** Jemná spojka + vložka ze sýra.
 
 *Koření na 1 kg masa:*
+
 * 14 g řeznické soli
 * 2 g cukru
 * 200 g sýra (Gouda, Čedar, Ementál) – nakrájený na kostičky
@@ -81,9 +93,11 @@ nav_order: 1
 ---
 
 ### Klobásy s medvědím česnekem
+
 **Složení masa:** 1 díl vepřový bůček, 3 díly libové hovězí/vepřové. Lze grilovat, udit i vařit.
 
 *Koření na 1 kg masa:*
+
 * 19 g řeznické soli
 * 2 g cukru
 * 2 g mletého kmínu
@@ -98,9 +112,12 @@ nav_order: 1
 ## 2. Fermentované klobásy
 
 ### Čabajka
-**Příprava:** Maso na hrubo (poměr kýta/plec ku boku 4:3 nebo 4:1). Po naražení nechat **3 dny fermentovat** při pokojové teplotě. Následně udit **24 hodin studeným kouřem** a nechat **měsíc zrát** (vysychat).
+
+**Příprava:** Maso na hrubo (poměr kýta/plec ku boku 4:3 nebo 4:1). Po naražení nechat **3 dny fermentovat** při
+pokojové teplotě. Následně udit **24 hodin studeným kouřem** a nechat **měsíc zrát** (vysychat).
 
 *Koření na 1 kg masa:*
+
 * 19 g řeznické soli
 * 3 g dextrózy
 * 10 g sladké papriky
@@ -115,9 +132,12 @@ nav_order: 1
 ---
 
 ### Chorizo
-**Příprava:** Bůček a plec (1:1), mletí na 8 mm. Nechat **2 dny fermentovat** při pokojové teplotě a pak nechat **měsíc vysychat** v chladu.
+
+**Příprava:** Bůček a plec (1:1), mletí na 8 mm. Nechat **2 dny fermentovat** při pokojové teplotě a pak nechat **měsíc
+vysychat** v chladu.
 
 *Koření na 1 kg masa:*
+
 * 19 g řeznické soli
 * 2 g sušeného oregana
 * 10 g sladké uzené papriky
@@ -131,9 +151,11 @@ nav_order: 1
 ## 3. Klobásy pro okamžitou spotřebu
 
 ### Salsiccia
+
 **Příprava:** Pouze libové vepřové, mletí nahrubo. Plnit do tenkých vepřových střev. Určeno k okamžitému grilování.
 
 *Koření na 1 kg masa:*
+
 * 16 g obyčejné soli (nikoliv řeznické)
 * 2 g cukru
 * 100 g parmazánu
@@ -145,7 +167,9 @@ nav_order: 1
 ---
 
 ### Vinná klobása
+
 *Koření na 1 kg masa:*
+
 * 14 g soli
 * 120 g žemle (namočené v tekutině)
 * **Tekutina:** (90 ml bílého vína + 100 ml vody + 40 ml smetany) NEBO (90 ml vína + 140 ml mléka)
@@ -155,10 +179,13 @@ nav_order: 1
 
 ## 4. Bratwürste (Grilovací klobásy)
 
-**Tepelná úprava (Sous-vide):** Vložit do lázně o teplotě **80 °C**. Jakmile vnitřní teplota klobásy dosáhne **71 °C**, dojde k bezpečné pasterizaci.
+**Tepelná úprava (Sous-vide):** Vložit do lázně o teplotě **80 °C**. Jakmile vnitřní teplota klobásy dosáhne **71 °C**,
+dojde k bezpečné pasterizaci.
 
 ### Norimberská klobása (Nürnberger Rostbratwurst)
+
 *Koření na 1 kg masa:*
+
 * 16 g soli
 * 1 g cukru
 * 4 g majoránky
@@ -171,7 +198,9 @@ nav_order: 1
 ---
 
 ### Mnichovská bílá klobása (Munich Weisswurst)
+
 *Koření na 1 kg masa:*
+
 * 16 g soli
 * 1 g cukru
 * 4 g barevného pepře
@@ -185,7 +214,9 @@ nav_order: 1
 ---
 
 ### Bavorská klobása (Bayerische Bratwurst)
+
 *Koření na 1 kg masa:*
+
 * 16 g soli
 * 1 g cukru
 * 4 g barevného pepře
@@ -199,7 +230,9 @@ nav_order: 1
 ---
 
 ### Moje klobása (Meine Bratwurst)
+
 *Koření na 1 kg masa:*
+
 * 16 g soli
 * 1 g cukru
 * 2 g majoránky

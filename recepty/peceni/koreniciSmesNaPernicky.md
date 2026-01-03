@@ -6,6 +6,7 @@ nav_order: 10
 ---
 
 # Středověká směs na perníčky
+
 *Autentická a aromatická směs koření, která dodá pečení historický nádech a hloubku.*
 
 ---
@@ -21,4 +22,5 @@ nav_order: 10
 ---
 
 ## Poznámky
+
 * **Použití:** Tato směs se hodí nejen do perníčků, ale i do perníku, koláčů, jablečných závinů nebo i do ranní kávy.

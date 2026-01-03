@@ -6,6 +6,7 @@ nav_order: 5
 ---
 
 # Vindaloo
+
 *Ostré a výrazně navinulé kari z oblasti Goa, charakteristické kombinací chilli a octa.*
 
 ---
@@ -13,6 +14,7 @@ nav_order: 5
 ## Suroviny
 
 ### Kari pasta (Základ)
+
 * 12 ks Kashmiri chilli papriček (6 se semínky, 6 bez semínek) (lze nahradit jinými, případně sladkou paprikou a chili)
 * 1 ČL celého černého pepře
 * 1/2 ČL černých hořčičných semínek
@@ -28,6 +30,7 @@ nav_order: 5
 * 3 ks středně velkých rajčat
 
 ### Na přípravu
+
 * 750 g masa, originál je vepřový, ale prsa, vykoštěná stehna, nebo jehněčí jde taky
 * 4–5 PL oleje
 * 1 1/2 střední cibule (nakrájená nadrobno)
@@ -39,10 +42,14 @@ nav_order: 5
 
 ## Postup
 
-1. **Příprava pasty:** Všechno koření (chilli, pepř, hořčici, hřebíček, kardamom, skořici, kmín a koriandr) krátce nasucho opražte na pánvi, dokud se nerozvoní. Poté je rozmixujte nebo roztlučte na prášek.
+1. **Příprava pasty:** Všechno koření (chilli, pepř, hořčici, hřebíček, kardamom, skořici, kmín a koriandr) krátce
+   nasucho opražte na pánvi, dokud se nerozvoní. Poté je rozmixujte nebo roztlučte na prášek.
 2. **Mixování:** Do mixéru dejte mleté koření, česnek, zázvor, kurkumu, ocet a rajčata. Rozmixujte na hladkou pastu.
-3. **Marinování:** Nakrájené kuřecí maso smíchejte s připravenou pastou a nechte marinovat (ideálně přes noc, nebo alespoň 2 hodiny).
+3. **Marinování:** Nakrájené kuřecí maso smíchejte s připravenou pastou a nechte marinovat (ideálně přes noc, nebo
+   alespoň 2 hodiny).
 4. **Základ:** V hlubokém hrnci rozpalte olej a nechte na něm zesklovatět a lehce zhnědnout cibuli.
 5. **Vaření:** Přidejte marinované kuře i s veškerou pastou. Pár minut restujte.
-6. **Dušení:** Přilijte vodu, osolte a přidejte cukr. Přikryjte pokličkou a duste na mírném ohni, dokud maso nezměkne a omáčka nezhoustne (cca 30–45 minut).
-7. **Dokončení:** Podle potřeby dochuťte solí nebo cukrem pro vyvážení kyselosti octa. Podávejte s rýží nebo chlebem naan.
+6. **Dušení:** Přilijte vodu, osolte a přidejte cukr. Přikryjte pokličkou a duste na mírném ohni, dokud maso nezměkne a
+   omáčka nezhoustne (cca 30–45 minut).
+7. **Dokončení:** Podle potřeby dochuťte solí nebo cukrem pro vyvážení kyselosti octa. Podávejte s rýží nebo chlebem
+   naan.
