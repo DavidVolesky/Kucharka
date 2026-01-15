@@ -1,6 +1,6 @@
 ---
 layout: default
-title: norský podmáslový chléb
+title: Norský podmáslový chléb
 parent: Pečení
 nav_order: 9
 ---
