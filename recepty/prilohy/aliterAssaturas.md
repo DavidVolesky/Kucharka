@@ -5,7 +5,7 @@ parent: Přílohy a omáčky
 nav_order: 2
 ---
 
-# Římská omáčka na steaky (Aliter Assaturas)
+# Římská omáčka na steaky (Aliter Assaturas) (Nevyzkoušena)
 *Recept z 1. století n. l. (De re coquinaria podle Apicia). Je to sladko-slaná omáčka s výrazným aroma bylinek a fermentovaných ryb, která skvěle doplňuje jakékoli maso.*
 
 ---
