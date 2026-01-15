@@ -6,6 +6,7 @@ nav_order: 9
 ---
 
 # Norský podmáslový chléb (Nevyzkoušen)
+
 *Vláčný domácí chléb s jemnou střídkou. Pečení v uzavřené litinové nádobě zajistí perfektní křupavou kůrku.*
 
 ---
@@ -24,6 +25,7 @@ nav_order: 9
 ## Postup
 
 1. **Příprava těsta:** Všechny suroviny zamíchejte dohromady v robotu, dokud nevznikne hladké těsto.
-2. **Kynutí:** Nechte nakynout dle zvoleného množství droždí (buď 12+ hodin v chladu, nebo cca hodinu v teple u rychlé varianty).
+2. **Kynutí:** Nechte nakynout dle zvoleného množství droždí (buď 12+ hodin v chladu, nebo cca hodinu v teple u rychlé
+   varianty).
 3. **Pečení s poklicí:** Chleba vložte do nahřátého hrnce a pečte prvních 15 minut s poklicí na 250 °C.
 4. **Dopečení:** Poté sundejte poklici, snižte teplotu na 230 °C a pečte dalších 20 minut.

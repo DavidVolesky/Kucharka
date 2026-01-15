@@ -6,6 +6,7 @@ nav_order: 11
 ---
 
 # Tvarohový nadýchaný koláč (Nevyzkoušen)
+
 *Jemný koláč s bohatou tvarohovou náplní a vláčným těstem.*
 
 ---
@@ -13,6 +14,7 @@ nav_order: 11
 ## Suroviny
 
 ### Těsto
+
 * 200 g hladké mouky
 * 70 g krupicového cukru
 * 1 ČL prášku do pečiva
@@ -24,6 +26,7 @@ nav_order: 11
 * strouhaná citronová kůra
 
 ### Náplň
+
 * 500 g měkkého tvarohu
 * 100 g krupicového cukru
 * 100 ml mléka
@@ -37,6 +40,9 @@ nav_order: 11
 ## Postup
 
 1. **Příprava těsta:** Suroviny na těsto smícháme a vypracujeme vláčné těsto, které necháme v chladnu chvíli odpočinout.
-2. **Příprava formy:** Dortovou formu vymažeme tukem a vysypeme hladkou moukou. Těsto namačkáme na dno a vytáhneme i do stran. Dno propícháme vidličkou.
-3. **Příprava náplně:** Do mísy dáme tvaroh, cukry, žloutky, citronovou šťávu, pudink, mléko a vše dohladka vyšleháme. Nakonec lehce vmícháme ušlehaný sníh z bílků.
-4. **Pečení:** Náplň naneseme na těsto a uhladíme. Vložíme do předem vyhřáté trouby na **180 °C** a pečeme asi **50 minut**.
+2. **Příprava formy:** Dortovou formu vymažeme tukem a vysypeme hladkou moukou. Těsto namačkáme na dno a vytáhneme i do
+   stran. Dno propícháme vidličkou.
+3. **Příprava náplně:** Do mísy dáme tvaroh, cukry, žloutky, citronovou šťávu, pudink, mléko a vše dohladka vyšleháme.
+   Nakonec lehce vmícháme ušlehaný sníh z bílků.
+4. **Pečení:** Náplň naneseme na těsto a uhladíme. Vložíme do předem vyhřáté trouby na **180 °C** a pečeme asi **50
+   minut**.
