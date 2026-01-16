@@ -205,3 +205,13 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 * **1 dash** Angostura Bitters (či Tatratea bitters)
 
 **Postup:** Vše smíchat ve sklenici s ledem.
+
+---
+
+## Sidecar
+
+* **<span class="unit-ml" data-ml="45">45 ml</span>** Conaq nebo Metaxa
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Cointreau, Curaçao nebo Triple Sec
+* **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** citronová šťáva
+
+**Postup:** Vše vložíme do sklenice s ledem a promícháme (nebo v šejkru).
