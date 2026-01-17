@@ -27,5 +27,6 @@ nav_order: 9
 1. **Příprava těsta:** Všechny suroviny zamíchejte dohromady v robotu, dokud nevznikne hladké těsto.
 2. **Kynutí:** Nechte nakynout dle zvoleného množství droždí (buď 12+ hodin v chladu, nebo cca hodinu v teple u rychlé
    varianty).
-3. **Pečení s poklicí:** Chleba vložte do nahřátého hrnce a pečte prvních 15 minut s poklicí na 250 °C.
-4. **Dopečení:** Poté sundejte poklici, snižte teplotu na 230 °C a pečte dalších 20 minut.
+3. **Pečení s poklicí:** Chleba vložte do nahřátého hrnce a pečte prvních 15 minut s poklicí na 250 °C, případně 30 min
+   na 160 °C.
+4. **Dopečení:** Poté sundejte poklici, snižte teplotu na 230 °C a pečte dalších 20 minut, nebo na 150 °C a 35 minut.
