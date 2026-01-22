@@ -5,7 +5,7 @@ parent: Pečení
 nav_order: 9
 ---
 
-# Norský podmáslový chléb (Nevyzkoušen)
+# Norský podmáslový chléb
 
 *Vláčný domácí chléb s jemnou střídkou. Pečení v uzavřené litinové nádobě zajistí perfektní křupavou kůrku.*
 
