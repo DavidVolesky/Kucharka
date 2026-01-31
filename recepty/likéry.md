@@ -100,27 +100,63 @@ Tato metoda je bezpečnější díky pasterizaci vajec a zajišťuje hustší, k
 
 # Citrusové Super Juice (Lemon Aide & Lime Support)
 
-*Barmanská technika pro získání maximální chuti z citrusů. Tato verze je upravena pouze s kyselinou citronovou.*
+<div style="background: #f4f4f4; padding: 15px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 20px;">
+  <label for="peelInput" style="font-weight: bold; margin-right: 10px;">Zadej váhu kůry (g):</label>
+  <input type="number" id="peelInput" value="30" oninput="calculateSuperJuice()" style="padding: 8px; width: 100px; border: 1px solid #ccc; border-radius: 4px; font-size: 16px;">
+  <span style="font-size: 0.9em; color: #666; margin-left: 10px;">(Recepty se automaticky přepočítají)</span>
+</div>
+
+<script>
+function calculateSuperJuice() {
+  const inputEl = document.getElementById('peelInput');
+  let inputVal = parseFloat(inputEl.value);
+  if (isNaN(inputVal) || inputVal < 0) inputVal = 0;}
+  
+  // Koeficient (základní recept je stavěn na 30g kůry)
+  const factor = inputVal / 30;
+
+  // 1. Aktualizace zobrazené hodnoty kůry (aby seděla s inputem)
+  document.querySelectorAll('.val-peel').forEach(el => {
+    el.innerText = inputVal;
+  });
+
+  // 2. Přepočet ostatních ingrediencí
+  document.querySelectorAll('.val-calc').forEach(el => {
+    let base = parseFloat(el.getAttribute('data-base'));
+    let newVal = base * factor;
+    
+    // Formátování: malá čísla (sůl) na 2 des. místa, velká na celá
+    if (base < 5) {
+       el.innerText = parseFloat(newVal.toFixed(2));
+    } else {
+       el.innerText = Math.round(newVal);
+    }
+  });
+} 
+</script>
+
+*Barmanská technika pro získání maximální chuti z citrusů. Tato verze je upravena pouze s kyselinou citronovou. Zadejte
+množství kůry výše.*
 
 ---
 
 ## Lemon Aide (Citronový základ)
 
-* **30 g citronové kůry** (jen žlutá část)
-* **30 g cukru krupice**
-* **30 g kyseliny citronové**
-* **1 g mořské soli**
-* **500 ml vody**
+* **<span class="val-peel">30</span> g** citronové kůry (jen žlutá část)
+* **<span class="val-calc" data-base="30">30</span> g** cukru krupice
+* **<span class="val-calc" data-base="30">30</span> g** kyseliny citronové
+* **<span class="val-calc" data-base="1">1</span> g** mořské soli
+* **<span class="val-calc" data-base="500">500</span> ml** vody
 
 ---
 
 ## Lime Support (Limetkový základ)
 
-* **30 g limetkové kůry** (jen zelená část)
-* **30 g cukru krupice**
-* **36 g kyseliny citronové**
-* **1 g mořské soli**
-* **500 ml vody**
+* **<span class="val-peel">30</span> g** limetkové kůry (jen zelená část)
+* **<span class="val-calc" data-base="30">30</span> g** cukru krupice
+* **<span class="val-calc" data-base="36">36</span> g** kyseliny citronové
+* **<span class="val-calc" data-base="1">1</span> g** mořské soli
+* **<span class="val-calc" data-base="500">500</span> ml** vody
 
 ---
 
