@@ -55,11 +55,11 @@ nav_order: 2
 1. **Žloutky:** V míse vyšlehejte žloutky (pokud si chcete ulehčit práci tak i bílky) s cukrem do světlé pěny.
 2. Smetanu s mlékem ohřejte na 75-80 stupňů celsia a pak jí směs pomalu temperujte (přidávejte po naběračkách za stálého
    míchání)
-2. Směs opět zahřejte na 75-80.
-2. **Bílky:** V čisté míse ušlehejte z bílků tuhý sníh a opatrně ho vmíchejte do žloutkové směsi. To dodá drinku
+3. Směs opět zahřejte na 75-80.
+4. **Bílky:** V čisté míse ušlehejte z bílků tuhý sníh a opatrně ho vmíchejte do žloutkové směsi. To dodá drinku
    nadýchanou texturu.
-3. Postupně za stálého míchání přilévejte alkohol.
-3. **Servírování:** Navrch nastrouhejte čerstvý muškátový oříšek. Uchovávejte v lednici.
+5. Postupně za stálého míchání přilévejte alkohol.
+6. **Servírování:** Navrch nastrouhejte čerstvý muškátový oříšek. Uchovávejte v lednici.
 
 **Moderní postup přípravy (Tepelná úprava)**
 
