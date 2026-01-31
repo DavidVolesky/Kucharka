@@ -110,38 +110,26 @@ Tato metoda je bezpečnější díky pasterizaci vajec a zajišťuje hustší, k
 function calculateSuperJuice() {
   const inputEl = document.getElementById('peelInput');
   let inputVal = parseFloat(inputEl.value);
-  
-  // Oprava: Zde byla chyba, odstranil jsem nadbytečnou závorku }
-  if (isNaN(inputVal) || inputVal < 0) { 
-    inputVal = 0; 
-  }
-  
-  // Koeficient (základní recept je stavěn na 30g kůry)
-  // Teď už je inputVal dostupné, protože jsme uvnitř funkce
+  if (isNaN(inputVal) || inputVal < 0) { inputVal = 0; }
   const factor = inputVal / 30;
-
-  // 1. Aktualizace zobrazené hodnoty kůry (aby seděla s inputem)
   document.querySelectorAll('.val-peel').forEach(el => {
     el.innerText = inputVal;
   });
-
-  // 2. Přepočet ostatních ingrediencí
   document.querySelectorAll('.val-calc').forEach(el => {
     let base = parseFloat(el.getAttribute('data-base'));
     let newVal = base * factor;
-    
-    // Formátování: malá čísla (sůl) na 2 des. místa, velká na celá
     if (base < 5) {
        el.innerText = parseFloat(newVal.toFixed(2));
     } else {
        el.innerText = Math.round(newVal);
     }
   });
-} 
+}
+// Spustit výpočet i při načtení stránky
+document.addEventListener('DOMContentLoaded', calculateSuperJuice);
 </script>
 
-*Barmanská technika pro získání maximální chuti z citrusů. Tato verze je upravena pouze s kyselinou citronovou. Zadejte
-množství kůry výše.*
+*Barmanská technika pro získání maximální chuti z citrusů. Tato verze je upravena pouze s kyselinou citronovou.*
 
 ---
 
@@ -162,8 +150,6 @@ množství kůry výše.*
 * **<span class="val-calc" data-base="36">36</span> g** kyseliny citronové
 * **<span class="val-calc" data-base="1">1</span> g** mořské soli
 * **<span class="val-calc" data-base="500">500</span> ml** vody
-
----
 
 **Postup**
 
