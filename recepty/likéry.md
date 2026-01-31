@@ -97,3 +97,47 @@ Tato metoda je bezpečnější díky pasterizaci vajec a zajišťuje hustší, k
 * **1 lžice** pikao
 
 **Postup je stejný jako u Eggnogu**
+
+# Citrusové Super Juice (Lemon Aide & Lime Support)
+
+*Barmanská technika pro získání maximální chuti z citrusů. Tato verze je upravena pouze s kyselinou citronovou.*
+
+---
+
+## Lemon Aide (Citronový základ)
+
+* **30 g citronové kůry** (jen žlutá část)
+* **30 g cukru krupice**
+* **30 g kyseliny citronové**
+* **1 g mořské soli**
+* **500 ml vody**
+
+---
+
+## Lime Support (Limetkový základ)
+
+* **30 g limetkové kůry** (jen zelená část)
+* **30 g cukru krupice**
+* **36 g kyseliny citronové**
+* **1 g mořské soli**
+* **500 ml vody**
+
+---
+
+**Postup**
+
+1. **Macerace:** V uzavíratelné nádobě smíchejte citrusovou kůru, cukr, kyselinu citronovou a sůl.
+2. **Odpočinek:** Směs nechte **2 až 6 hodin** odpočívat při pokojové teplotě. Kyselina a cukr vytáhnou z kůry
+   aromatické oleje (vznikne tzv. oleo-citrate).
+3. **Mixování:** Směs přelijte do mixéru, přidejte 500 ml vody a důkladně rozmixujte.
+4. **Filtrace:** Výslednou tekutinu přeceďte přes jemné síto nebo plátýnko.
+5. **Skladování:** Skladujte v čisté lahvi v lednici. Vydrží čerstvé mnohem déle než běžná šťáva.
+
+---
+
+**Poznámky**
+
+* **Kyselina:** V původním receptu se používá i kyselina jablečná pro komplexnější chuť, tato verze je upravena čistě na
+  kyselinu citronovou.
+* **Využití:** Ideální do koktejlů (Margarita, Daiquiri), kde chcete výraznou citrusovou chuť bez nutnosti lisovat kila
+  ovoce.
