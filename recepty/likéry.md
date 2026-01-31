@@ -110,9 +110,14 @@ Tato metoda je bezpečnější díky pasterizaci vajec a zajišťuje hustší, k
 function calculateSuperJuice() {
   const inputEl = document.getElementById('peelInput');
   let inputVal = parseFloat(inputEl.value);
-  if (isNaN(inputVal) || inputVal < 0) inputVal = 0;}
+  
+  // Oprava: Zde byla chyba, odstranil jsem nadbytečnou závorku }
+  if (isNaN(inputVal) || inputVal < 0) { 
+    inputVal = 0; 
+  }
   
   // Koeficient (základní recept je stavěn na 30g kůry)
+  // Teď už je inputVal dostupné, protože jsme uvnitř funkce
   const factor = inputVal / 30;
 
   // 1. Aktualizace zobrazené hodnoty kůry (aby seděla s inputem)
