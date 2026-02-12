@@ -98,7 +98,7 @@ nav_order: 1
 
 *Koření na 1 kg masa:*
 
-* 19 g řeznické soli
+* 16 g řeznické soli
 * 2 g cukru
 * 2 g mletého kmínu
 * 2 g barevného pepře
