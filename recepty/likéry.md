@@ -168,3 +168,25 @@ document.addEventListener('DOMContentLoaded', calculateSuperJuice);
   kyselinu citronovou.
 * **Využití:** Ideální do koktejlů (Margarita, Daiquiri), kde chcete výraznou citrusovou chuť bez nutnosti lisovat kila
   ovoce.
+
+# Sirupy
+
+## Simple Syrup (Cukrový sirup)
+
+*Nejjednodušší barmanský sirup, který se používá k doslazování koktejlů a nápojů.*
+
+---
+
+## Suroviny
+
+* **1 díl** vody
+* **2 díly** cukru
+
+---
+
+## Postup
+
+1. **Příprava:** Cukr a vodu vložíme do hrnce.
+2. **Vaření:** Za stálého míchání zahříváme a necháme asi minutu povařit, dokud se cukr úplně nerozpustí a tekutina není
+   čirá.
+3. **Skladování:** Necháme vychladnout a přelijeme do čisté lahve.
