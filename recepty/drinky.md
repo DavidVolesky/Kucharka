@@ -215,3 +215,18 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 * **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** citronová šťáva
 
 **Postup:** Vše vložíme do sklenice s ledem a promícháme (nebo v šejkru).
+
+---
+
+## Hand Grenade
+
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Gin
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Vodka
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Bílý rum
+* **<span class="unit-ml" data-ml="45">45 ml</span>** Melounový likér (např. Midori, Amunsen)
+* **<span class="unit-ml" data-ml="45">45 ml</span>** Ananasový džus
+potravinářské barvivo (pokud likét není zelený)
+
+**Postup:** Všechny ingredience nadávkujte do šejkru. Přidejte drcený led a protřepávejte po dobu 5–8 sekund. Celý obsah 
+šejkru (včetně ledu) přelijte do pivní sklenice, která je do poloviny naplněná drceným ledem. Navrch přisypte další 
+drcený led až po okraj. Dozdobte koktejlovou třešinkou, limetkou, nebo okurkou.
