@@ -225,7 +225,7 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 * **<span class="unit-ml" data-ml="30">30 ml</span>** Bílý rum
 * **<span class="unit-ml" data-ml="45">45 ml</span>** Melounový likér (např. Midori, Amunsen)
 * **<span class="unit-ml" data-ml="45">45 ml</span>** Ananasový džus
-potravinářské barvivo (pokud likét není zelený)
+* potravinářské barvivo (pokud likér není zelený)
 
 **Postup:** Všechny ingredience nadávkujte do šejkru. Přidejte drcený led a protřepávejte po dobu 5–8 sekund. Celý obsah 
 šejkru (včetně ledu) přelijte do pivní sklenice, která je do poloviny naplněná drceným ledem. Navrch přisypte další 
