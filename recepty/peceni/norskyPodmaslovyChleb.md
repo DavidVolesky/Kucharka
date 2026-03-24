@@ -14,7 +14,7 @@ nav_order: 9
 ## Suroviny
 
 * 3 hrnky hladké mouky
-* 1,5 hrnku podmáslí (lze nahradit kefírem, nebo v poměru 1:1 vodou a jogurtem)
+* 1,5 hrnku podmáslí
 * 50 g másla
 * 1 lžička cukru
 * 1 lžička soli
