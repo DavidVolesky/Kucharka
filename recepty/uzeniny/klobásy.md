@@ -119,7 +119,7 @@ pokojové teplotě. Následně udit **24 hodin studeným kouřem** a nechat **m�
 *Koření na 1 kg masa:*
 
 * 19 g řeznické soli
-* 3 g dextrózy
+* 5 g dextrózy
 * 10 g sladké papriky
 * 10 g pálivé papriky
 * 5 g barevného pepře
