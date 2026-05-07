@@ -168,6 +168,20 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 
 ---
 
+## Donkey Punch
+
+* **<span class="unit-ml" data-ml="45">45 ml</span>** Bílý rum
+* **<span class="unit-ml" data-ml="45">45 ml</span>** Tmavý rum
+* **<span class="unit-ml" data-ml="15">15 ml</span>** Overproof rum (nebo nějáký voňavý jamaský)
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Pomerančový džus
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Ananasový džus
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Brusinkový džus
+* **<span class="unit-ml" data-ml="15">15 ml</span>** Grenadina
+
+**Postup:** Vše vložíme do shakeru, pořádně protřepeme a nalijeme do sklenice s ledem.
+
+---
+
 ## Daiquiri
 
 * **<span class="unit-ml" data-ml="60">60 ml</span>** bílý rum
