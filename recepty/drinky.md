@@ -208,6 +208,17 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 
 ---
 
+## Farmers Lemonade
+
+* **<span class="unit-ml" data-ml="60">60 ml</span>** Bourbon
+* **<span class="unit-ml" data-ml="30">22.5 ml</span>** Citronová šťáva
+* **<span class="unit-ml" data-ml="30">22.5 ml</span>** Simple sirup, nebo med s vodou 1:1
+* **1 dash** Angostura Bitters
+
+**Postup:** Vše v shakeru protřepat a nalít na led.
+
+---
+
 ## Sidecar
 
 * **<span class="unit-ml" data-ml="45">45 ml</span>** Conaq nebo Metaxa
@@ -227,6 +238,6 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 * **<span class="unit-ml" data-ml="45">45 ml</span>** Ananasový džus
 * potravinářské barvivo (pokud likér není zelený)
 
-**Postup:** Všechny ingredience nadávkujte do šejkru. Přidejte drcený led a protřepávejte po dobu 5–8 sekund. Celý obsah 
-šejkru (včetně ledu) přelijte do pivní sklenice, která je do poloviny naplněná drceným ledem. Navrch přisypte další 
+**Postup:** Všechny ingredience nadávkujte do šejkru. Přidejte drcený led a protřepávejte po dobu 5–8 sekund. Celý obsah
+šejkru (včetně ledu) přelijte do pivní sklenice, která je do poloviny naplněná drceným ledem. Navrch přisypte další
 drcený led až po okraj. Dozdobte koktejlovou třešinkou, limetkou, nebo okurkou.
