@@ -168,6 +168,16 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 
 ---
 
+## Hairy Navel
+
+* **<span class="unit-ml" data-ml="40">45 ml</span>** vodka (Finlandia, Smirnoff Red)
+* **<span class="unit-ml" data-ml="20">30 ml</span>** broskvová vodka/likér (Bols Peach)
+* **<span class="unit-ml" data-ml="60">120 ml</span>** pomerančový džus
+
+**Postup:** Vše vložíme do sklenice s ledem a promícháme.
+
+---
+
 ## Donkey Punch
 
 * **<span class="unit-ml" data-ml="45">45 ml</span>** Bílý rum
