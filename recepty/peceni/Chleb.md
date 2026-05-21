@@ -26,6 +26,8 @@ což zajišťuje dokonalou křupavou kůrku a vláčnou střídku.*
 
 *Vláčný domácí chléb s jemnou střídkou. Pečení v uzavřené litinové nádobě zajistí perfektní křupavou kůrku.*
 
+*Odzkoušené pečení v litinovém hrci 15 minut s poklicí na 250 °C a 20 minut na 230 °C bez poklice.*
+
 * 3 hrnky hladké mouky
 * 1,5 hrnku podmáslí
 * 50 g másla
@@ -39,6 +41,8 @@ což zajišťuje dokonalou křupavou kůrku a vláčnou střídku.*
 
 *Tradiční francouzský recept na chléb s výraznou vůní a příjemně nakyslou žitnou chutí.*
 
+*Odhadované pečení v litinovém hrci 15 minut s poklicí na 250 °C a 35 minut na 190 °C bez poklice.*
+
 * **Vlažná voda:** 450 ml
 * **Sůl:** 1,5 m.l. (malá lžička)
 * **Hladká mouka:** 150 g
@@ -50,6 +54,8 @@ což zajišťuje dokonalou křupavou kůrku a vláčnou střídku.*
 ## 3. Pastýřský chléb
 
 *Světový chléb ozvláštněný kapkou červeného vína a olivovým olejem.*
+
+*Odhadovaná pečení v litinovém hrci 15 minut s poklicí na 250 °C a 20 minut na 230 °C bez poklice.*
 
 * **Voda:** 210 ml
 * **Červené víno:** 15 ml
@@ -64,6 +70,8 @@ což zajišťuje dokonalou křupavou kůrku a vláčnou střídku.*
 
 *Příbuzný farmářského bochníku. Vyšší poměr žitné mouky a sušené mléko mu dodávají jemnou a pravidelnou střídku, která
 zůstává dlouho vláčná.*
+
+*Odzkoušené pečení v litinovém hrci 15 minut s poklicí na 250 °C a 25 minut na 200 °C bez poklice.*
 
 * **Voda:** 305 ml
 * **Slunečnicový olej:** 1/2 p.l. (polévková lžíce)
@@ -81,6 +89,8 @@ zůstává dlouho vláčná.*
 
 *Světle hnědý chléb s menším podílem žita, které mu dodává charakteristickou chuť a pomáhá ho udržet déle čerstvý.*
 
+*Odhadovaná pečení v litinovém hrci 15 minut s poklicí na 250 °C a 25 minut na 230 °C bez poklice.*
+
 * **Voda:** 340 ml
 * **Sůl:** 1,5 m.l. (malá lžička)
 * **Pšeničná mouka hladká:** 490 g
@@ -93,6 +103,8 @@ zůstává dlouho vláčná.*
 
 *Vyvážený typ chleba s poměrně sladkou chutí a stejným podílem pšeničné a žitné mouky. Skvěle se hodí k plodům moře nebo
 sýrům.*
+
+*Odhadovaná pečení v litinovém hrci 15 minut s poklicí na 250 °C a 35 minut na 190 °C bez poklice.*
 
 * **Voda:** 375 ml
 * **Sůl:** 1,5 m.l. (malá lžička)
