@@ -168,6 +168,17 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 
 ---
 
+## Cosmopolitan
+
+* **<span class="unit-ml" data-ml="45">45 ml</span>** vodka (Finlandia, Smirnoff Red)
+* **<span class="unit-ml" data-ml="15">15 ml</span>** Cointreau, Curaçao nebo Triple Sec
+* **<span class="unit-ml" data-ml="15">15 ml</span>** limetková šťáva
+* **<span class="unit-ml" data-ml="45">45 ml</span>** brusinkový džus
+
+**Postup:** Vše vložíme do shakeru, pořádně protřepeme a nalijeme do sklenice.
+
+---
+
 ## Hairy Navel
 
 * **<span class="unit-ml" data-ml="40">45 ml</span>** vodka (Finlandia, Smirnoff Red)
