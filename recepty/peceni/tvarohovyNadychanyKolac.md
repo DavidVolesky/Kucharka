@@ -2,7 +2,6 @@
 layout: default
 title: Tvarohový nadýchaný koláč
 parent: Pečení
-nav_order: 11
 ---
 
 # Tvarohový nadýchaný koláč (Nevyzkoušen)

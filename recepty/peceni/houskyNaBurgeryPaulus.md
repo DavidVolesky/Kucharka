@@ -2,7 +2,6 @@
 layout: default
 title: Housky na hamburgery
 parent: Pečení
-nav_order: 1
 ---
 
 # Housky na hamburgery (Roman Paulus)

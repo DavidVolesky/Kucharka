@@ -2,7 +2,6 @@
 layout: default
 title: Indický Masala Chai
 parent: Dezerty
-nav_order: 2
 ---
 
 # Indický Masala Chai

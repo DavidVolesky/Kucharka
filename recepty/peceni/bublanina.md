@@ -2,7 +2,6 @@
 layout: default
 title: Bublanina
 parent: Pečení
-nav_order: 4
 ---
 
 # Bublanina (Poměr 9-9-9)

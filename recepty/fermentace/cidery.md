@@ -2,7 +2,6 @@
 layout: default
 title: Cidery
 parent: Fermentace
-nav_order: 2
 ---
 
 # Deník výroby cideru

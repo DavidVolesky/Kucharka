@@ -2,7 +2,6 @@
 layout: default
 title: Šunky a uzené boky
 parent: Uzeniny
-nav_order: 4
 ---
 
 # Šunky a uzené boky

@@ -2,7 +2,6 @@
 layout: default
 title: Tudorský jahodový koláč
 parent: Pečení
-nav_order: 7
 ---
 
 # Tudorský jahodový koláč (Tudor Strawberry Tart)

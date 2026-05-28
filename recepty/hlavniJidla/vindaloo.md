@@ -2,7 +2,6 @@
 layout: default
 title: Vindaloo
 parent: Hlavní jídla
-nav_order: 5
 ---
 
 # Vindaloo

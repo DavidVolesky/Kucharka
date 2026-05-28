@@ -2,7 +2,6 @@
 layout: default
 title: Tarte Flambée
 parent: Hlavní jídla
-nav_order: 1
 ---
 
 # Tarte Flambée (Flammkuche)

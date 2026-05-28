@@ -2,7 +2,6 @@
 layout: default
 title: Brioche bulky (Tangzhong)
 parent: Pečení
-nav_order: 3
 ---
 
 # Brioche bulky na burgery (Metoda Tangzhong)

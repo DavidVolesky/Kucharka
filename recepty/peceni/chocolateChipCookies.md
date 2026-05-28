@@ -2,7 +2,6 @@
 layout: default
 title: Chocolate Chip Cookies
 parent: Pečení
-nav_order: 13
 ---
 
 # Chocolate Chip Cookies

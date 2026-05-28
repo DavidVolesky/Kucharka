@@ -2,7 +2,6 @@
 layout: default
 title: Italská horká čokoláda
 parent: Dezerty
-nav_order: 1
 ---
 
 # Italská horká čokoláda

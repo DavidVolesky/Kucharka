@@ -2,7 +2,6 @@
 layout: default
 title: Medoviny
 parent: Fermentace
-nav_order: 1
 ---
 
 # Deník výroby medoviny

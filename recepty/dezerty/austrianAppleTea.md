@@ -2,7 +2,6 @@
 layout: default
 title: Rakouský jablečný čaj se šnapsem
 parent: Dezerty
-nav_order: 3
 ---
 
 # Rakouský jablečný čaj se šnapsem (Apfelschnaps Tea)

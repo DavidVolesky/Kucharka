@@ -2,7 +2,6 @@
 layout: default
 title: Cibulové chutney
 parent: Přílohy a omáčky
-nav_order: 1
 ---
 
 # Cibulové chutney

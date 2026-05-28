@@ -2,7 +2,6 @@
 layout: default
 title: Párky
 parent: Uzeniny
-nav_order: 2
 ---
 
 # Párky

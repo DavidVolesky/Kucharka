@@ -2,7 +2,6 @@
 layout: default
 title: Ovocná vína
 parent: Fermentace
-nav_order: 3
 ---
 
 # Deník výroby ovocných vín

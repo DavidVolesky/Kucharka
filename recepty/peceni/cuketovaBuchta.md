@@ -2,7 +2,6 @@
 layout: default
 title: Cuketová buchta
 parent: Pečení
-nav_order: 5
 ---
 
 # Cuketová buchta

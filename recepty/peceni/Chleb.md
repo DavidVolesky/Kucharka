@@ -2,7 +2,6 @@
 layout: default
 title: Domácí chleby
 parent: Pečení
-nav_order: 9
 ---
 
 # Domácí chleby

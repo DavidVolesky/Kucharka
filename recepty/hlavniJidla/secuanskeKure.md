@@ -2,7 +2,6 @@
 layout: default
 title: Sečuánské kuře
 parent: Hlavní jídla
-nav_order: 4
 ---
 
 # Sečuánské kuře (Szechuan Chicken)

@@ -2,7 +2,6 @@
 layout: default
 title: Pizza (Těsto)
 parent: Hlavní jídla
-nav_order: 3
 ---
 
 # Těsto na pizzu

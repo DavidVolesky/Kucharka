@@ -2,7 +2,6 @@
 layout: default
 title: Lasagne
 parent: Hlavní jídla
-nav_order: 2
 ---
 
 # Lasagne

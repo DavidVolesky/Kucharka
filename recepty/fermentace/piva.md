@@ -2,7 +2,6 @@
 layout: default
 title: Piva
 parent: Fermentace
-nav_order: 4
 ---
 
 # Deník výroby piv a speciálů

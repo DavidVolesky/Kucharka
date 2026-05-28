@@ -2,7 +2,6 @@
 layout: default
 title: Středověká směs na perníčky
 parent: Pečení
-nav_order: 10
 ---
 
 # Středověká směs na perníčky

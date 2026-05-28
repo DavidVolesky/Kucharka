@@ -2,7 +2,6 @@
 layout: default
 title: Jablečný koláč
 parent: Pečení
-nav_order: 6
 ---
 
 # Jablečný koláč z listového těsta

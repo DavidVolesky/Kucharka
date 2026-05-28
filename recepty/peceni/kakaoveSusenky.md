@@ -2,7 +2,6 @@
 layout: default
 title: Kakaové sušenky s kokosem
 parent: Pečení
-nav_order: 8
 ---
 
 # Kakaové sušenky s kokosem

@@ -2,7 +2,6 @@
 layout: default
 title: Salámy
 parent: Uzeniny
-nav_order: 3
 ---
 
 # Salámy

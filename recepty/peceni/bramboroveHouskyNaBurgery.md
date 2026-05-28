@@ -2,7 +2,6 @@
 layout: default
 title: Bramborové bulky
 parent: Pečení
-nav_order: 2
 ---
 
 # Bramborové bulky na burgery
