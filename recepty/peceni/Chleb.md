@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domácí chleby
+title: Chleby
 parent: Pečení
 ---
 
@@ -40,7 +40,7 @@ což zajišťuje dokonalou křupavou kůrku a vláčnou střídku.*
 
 *Tradiční francouzský recept na chléb s výraznou vůní a příjemně nakyslou žitnou chutí.*
 
-*Odhadované pečení v litinovém hrci 15 minut s poklicí na 250 °C a 35 minut na 190 °C bez poklice.*
+*Odzkoušené pečení v litinovém hrci 15 minut s poklicí na 250 °C a 35 minut na 190 °C bez poklice.*
 
 * **Vlažná voda:** 450 ml
 * **Sůl:** 1,5 m.l. (malá lžička)
@@ -54,7 +54,7 @@ což zajišťuje dokonalou křupavou kůrku a vláčnou střídku.*
 
 *Světový chléb ozvláštněný kapkou červeného vína a olivovým olejem.*
 
-*Odhadovaná pečení v litinovém hrci 15 minut s poklicí na 250 °C a 20 minut na 230 °C bez poklice.*
+*Odzkoušené pečení v litinovém hrci 15 minut s poklicí na 250 °C a 20 minut na 230 °C bez poklice.*
 
 * **Voda:** 210 ml
 * **Červené víno:** 15 ml

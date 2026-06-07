@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domácí tortilly
+title: Tortilly
 parent: Pečení
 ---
 

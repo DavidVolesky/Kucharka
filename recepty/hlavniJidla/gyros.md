@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domácí Gyros
+title: Gyros
 parent: Hlavní jídla
 ---
 

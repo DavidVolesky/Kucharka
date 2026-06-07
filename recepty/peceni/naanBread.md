@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domácí Naan
+title: Naan
 parent: Pečení
 ---
 
