@@ -155,6 +155,19 @@ ledem a znovu pořádně promíchejte.
 
 ---
 
+## Rum Cow
+
+* **<span class="unit-ml" data-ml="60">60 ml</span>** jamajský rum
+* **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="90">90 ml</span>** smetana ke šlehání
+* **1 dash** Angostura Bitters
+* **1 dash** Chocolate Bitters (nebo trošku strohané čokolády)
+* muškátový oříšek na vrch
+
+**Postup:** Vše v shakeru protřepat a nalít do sklenice.
+
+---
+
 ## Sex on the Beach
 
 * **<span class="unit-ml" data-ml="40">40 ml</span>** vodka (Finlandia, Smirnoff Red)
