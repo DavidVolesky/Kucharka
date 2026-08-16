@@ -94,3 +94,20 @@ tříslovin.
 
 > **⚠️ Bezpečnostní poznámka:** Várka byla vylita z důvodu rizika otravy těžkými kovy. Kámen použitý jako těžítko se
 > začal v kyselém prostředí vína rozpouštět.
+
+---
+
+## #5 Špendlíkové víno
+
+**Suroviny:**
+
+* 10 L celkový objem
+* Červené, fialové a žluté špendlíky, nejrpve rozmačkány na rmut, poté přidány kvasinky a nechýny 3 dny nakvasit, kváli
+  tomu, aby pustily chuť a barvu ze slupek, ale zároveň nepustily hořkost z pecek. Následně rmut scezen a vymačkán,
+  přidán cukr, doředěno a uvedeno do primární fáze.
+* Kvasinky: Aromatic Wine Complex (SpiritFerm) 16%
+* **OG:** 1.09 rmut jako takový 1.02
+
+**Časová osa:**
+
+* **16.08.2026:** Primární fáze.
