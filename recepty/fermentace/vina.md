@@ -111,3 +111,7 @@ tříslovin.
 **Časová osa:**
 
 * **16.08.2026:** Primární fáze.
+* **31.08.2026:** Sekundární fáze. SG 1.00
+* **12.09.2026:** Stočeno do lahví. Přidán priming sugar 10g/l, bude šumivé. Doslazeno na 1.02 ovšem Erytrolem tj.
+  51.8 * 1.4 = 72.5 g/l Eritrolu pro SG 1.02. Přídán 24 hodinový výluh 10g ibišku v 100ml slivovice, pro barvu a
+  florální tóny. Už při stáčení skvělé, kyselé, ovšem se zbytkovou sladkostí, tělo to má jako červené víno.
