@@ -56,6 +56,16 @@ konzumací rozmíchat.
 
 ---
 
+## Jameson Ginger & Lime
+
+* **<span class="unit-ml" data-ml="60">60 ml</span>** Jameson
+* **<span class="unit-ml" data-ml="15">15 ml</span>** čerstvě vymačkaná limetková šťáva
+* **cca <span class="unit-ml" data-ml="180">180 ml</span>** zázvorové pivo (případně ginger ale)
+
+**Postup:** Šťávu smícháme s pivem, jamesonem a přidáme led.
+
+---
+
 ## Tequila Sunrise
 
 * **<span class="unit-ml" data-ml="60">60 ml</span>** blanco tequila (případně vodka pro Russian Sunrise)
