@@ -168,6 +168,17 @@ ledem a znovu pořádně promíchejte.
 
 ---
 
+## White Russian
+
+* **<span class="unit-ml" data-ml="60">60 ml</span>** vodka, pokud chceme White Cuban tak bílý rum
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Kahluá, kávový likér
+* **<span class="unit-ml" data-ml="30">30 ml</span>** smetana ke šlehání
+
+**Postup:** Vodku a likér buď promícháme v shakeru, nebo přímo ve sklenici. Nahoru nalijeme opatrně smetanu a ozdobíme
+kokteilovými třešňemi.
+
+---
+
 ## Sex on the Beach
 
 * **<span class="unit-ml" data-ml="40">40 ml</span>** vodka (Finlandia, Smirnoff Red)
