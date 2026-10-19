@@ -150,3 +150,24 @@ Záznamy o jednotlivých šaržích, použitých surovinách a postupech.
 * **07.02.2025:** Primární fáze.
 * **21.02.2025:** Sekundární fáze (**FG: 1.0**), stabilizováno.
 * **24.03.2025:** Stočeno do lahví.
+
+---
+
+## #7 Středověký Bochet (1393)
+
+*Med po zkaramelizování (dokud nebyly vidět puchýře vypouštějící tmavou páru) přecezen přes síto do demijohu*
+
+**Suroviny:**
+
+* 15 L celkový objem
+* 2 700 g medu (květový - pálený)
+* 16 g štipek z amerického dubu (čerstvé, zanecháno jak v primární tak v sekundarní fázi)
+* Koření: 3 g hřebíčku (celý), 7.5 g dlouhého pepře(drcený), 7.5 g guinejského pepře (drcený), 22.5 g zázvoru (čestvý)
+* Kvasinky: Aromatic Wine Complex (SpiritFerm) 16%
+* **OG:** 1.075
+
+**Časová osa:**
+
+* **19.10.2026:** Primární fáze, na konci vytaženo koření, štěpky ponechány.
+* **xx.xx.2026:** Sekundární fáze (**FG: 1.0**).
+* **xx.xx.2026:** Stočeno do lahví.
