@@ -84,6 +84,16 @@ která klesne na dno a vytvoří efekt vycházejícího slunce.
 * **<span class="unit-ml" data-ml="30">30 ml</span>** šťáva z čerstvé limetky
 * **<span class="unit-ml" data-ml="15">15 ml</span>** agávový nebo simple sirup
 
+**Postup:** Vše vložíme do shakeru, pořádně protřepeme a nalijeme do sklenice s ledem.---
+
+## Coconut Margarita
+
+* **<span class="unit-ml" data-ml="45">45 ml</span>** blanco tequila
+* **<span class="unit-ml" data-ml="15">15 ml</span>** pomerančový likér (Cointreau nebo Triple Sec)
+* **<span class="unit-ml" data-ml="30">30 ml</span>** šťáva z čerstvé limetky
+* **<span class="unit-ml" data-ml="30">30 ml</span>** kokosový likér, případně sirup
+* **<span class="unit-ml" data-ml="15">15 ml</span>** agávový nebo simple sirup
+
 **Postup:** Vše vložíme do shakeru, pořádně protřepeme a nalijeme do sklenice s ledem.
 
 ---
