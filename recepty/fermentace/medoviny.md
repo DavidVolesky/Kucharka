@@ -168,6 +168,6 @@ Záznamy o jednotlivých šaržích, použitých surovinách a postupech.
 
 **Časová osa:**
 
-* **19.10.2026:** Primární fáze, na konci vytaženo koření, štěpky ponechány.
-* **xx.xx.2026:** Sekundární fáze (**FG: 1.0**).
+* **19.10.2026:** Primární fáze.
+* **02.11.2026:** Sekundární fáze (**FG: 1.0**). Stabilizováno, na konci vytaženo koření, štěpky ponechány.
 * **xx.xx.2026:** Stočeno do lahví.
