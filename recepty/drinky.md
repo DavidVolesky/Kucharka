@@ -243,6 +243,19 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 
 ---
 
+## Liquid Marijuana
+* **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** Kokosový likér
+* **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** Tmavý nebo kořeněný rum
+* **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** Melounový likér (např. Midori, Bolts)
+* **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** likér Blue Curaçao
+* **<span class="unit-ml" data-ml="15">15 ml</span>** šťáva z citronu nebo limetky
+* **<span class="unit-ml" data-ml="15">15 ml</span>** simple sirup
+* **<span class="unit-ml" data-ml="45">45 ml</span>** Ananasový džus
+
+**Postup:** Vše vložíme do sklenice s ledem a promícháme.
+
+---
+
 ## Donkey Punch
 
 * **<span class="unit-ml" data-ml="45">45 ml</span>** Bílý rum
