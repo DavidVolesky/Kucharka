@@ -223,6 +223,16 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 
 ---
 
+## Japanese Slipper
+
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Cointreau, Curaçao nebo Triple Sec
+* **<span class="unit-ml" data-ml="30">30 ml</span>** Melounový likér (např. Midori, Bolts)
+* **<span class="unit-ml" data-ml="30">30 ml</span>** limetková šťáva
+
+**Postup:** Vše vložíme do shakeru, pořádně protřepeme a nalijeme do sklenice.
+
+---
+
 ## Hairy Navel
 
 * **<span class="unit-ml" data-ml="40">45 ml</span>** vodka (Finlandia, Smirnoff Red)
