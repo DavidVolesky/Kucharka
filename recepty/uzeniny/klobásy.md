@@ -16,19 +16,16 @@ parent: Uzeniny
 function calculateSausages() {
   const inputEl = document.getElementById('meatInput');
   let inputVal = parseFloat(inputEl.value);
-  if (isNaN(inputVal) || inputVal < 0) { inputVal = 0; }}
+  if (isNaN(inputVal) || inputVal < 0) { inputVal = 0; }
   
-  // Aktualizace textu s váhou masa všude, kde je třída val-meat
   document.querySelectorAll('.val-meat').forEach(el => {
     el.innerText = inputVal;
   });
 
-  // Přepočet všech surovin podle koeficientu (základ je 1 kg)
   document.querySelectorAll('.val-calc').forEach(el => {
     let base = parseFloat(el.getAttribute('data-base'));
     let newVal = base * inputVal;
     
-    // Pro malé desetinné hodnoty (gramáže koření pod 5 g) zaokrouhlíme na 1 desetinné místo, jinak na celé číslo
     if (base < 5) {
        el.innerText = parseFloat(newVal.toFixed(1));
     } else {
