@@ -172,7 +172,7 @@ vysychat** v chladu.
 * 14 g soli
 * 120 g žemle (namočené v tekutině)
 * **Tekutina:** (90 ml bílého vína + 100 ml vody + 40 ml smetany) NEBO (90 ml vína + 140 ml mléka)
-* **Koření:** 3 g hotové směsi NEBO (muškátový oříšek, citronová kůra a mletý hřebíček)
+* **Koření:** 3 g hotové směsi NEBO ( 1 g bílý pepř, 1 g muškátový oříšek, 0.5g citronová kůra a  0.5g mletý hřebíček)
 
 ---
 
