@@ -208,7 +208,8 @@ vysychat** v chladu.
   vína + <span class="val-calc" data-base="100">100</span> ml vody + <span class="val-calc" data-base="40">40</span> ml
   smetany) NEBO (<span class="val-calc" data-base="90">90</span> ml vína + <span class="val-calc" data-base="140">
   140</span> ml mléka)
-- **Koření:** 3 g hotové směsi NEBO (<span class="val-calc" data-base="1">1</span> g bílý
+- **Koření:** <span class="val-calc" data-base="3">3</span> g hotové směsi NEBO (<span class="val-calc" data-base="1">
+  1</span> g bílý
   pepř, <span class="val-calc" data-base="1">1</span> g muškátový oříšek, <span class="val-calc" data-base="0.5">
   0.5</span> g citronová kůra a <span class="val-calc" data-base="0.5">0.5</span> g mletý hřebíček)
 
