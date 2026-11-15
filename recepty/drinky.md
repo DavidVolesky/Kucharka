@@ -158,20 +158,22 @@ ledem a znovu pořádně promíchejte.
 * **2 dash** Angostura Bitters
 * led (drcený nebo kostky)
 
-**Postup:** Vložte mátu(trochu jí pomačkejte), rum, sirup a šťávu. Dobře promíchejte, zasypte ledem a znovu promíchejte.
+**Postup:** Vložte mátu (trochu jí pomačkejte), rum, sirup a šťávu. Dobře promíchejte, zasypte ledem a znovu
+promíchejte.
 
 ---
 
 ## Piña Colada
 
 * **<span class="unit-ml" data-ml="60">60 ml</span>** bílý rum
-* **<span class="unit-ml" data-ml="30">30 ml</span>** kokosový krém, mléko, nebo **<span class="unit-ml" data-ml="15">15
-  ml</span>** sirupu + citrusy
+* **<span class="unit-ml" data-ml="30">30 ml</span>** - **<span class="unit-ml" data-ml="45">45 ml</span>** kokosový
+  krém, mléko, nebo **<span class="unit-ml" data-ml="15">15
+  ml</span>** sirupu + **<span class="unit-ml" data-ml="15">15 ml</span>** citrusové šťávy
 * **<span class="unit-ml" data-ml="90">90 ml</span>** ananasová šťáva
 * pár kapek citronové, nebo limetkové šťávy
 
-**Postup (zjednodušený):** Vše v shakeru protřepat a nalít na led.
-**Postup (normální):** Vše vymixovat v elektrickém mixéru s ledem do hladka.
+**Postup (zjednodušený):** Vše v shakeru protřepat a nalít na led. **Postup (normální):** Vše vymixovat v elektrickém
+mixéru s ledem do hladka.
 
 ---
 
@@ -204,7 +206,7 @@ kokteilovými třešňemi.
 * **<span class="unit-ml" data-ml="40">40 ml</span>** vodka (Finlandia, Smirnoff Red)
 * **<span class="unit-ml" data-ml="20">20 ml</span>** broskvová vodka/likér (Bols Peach)
 * **<span class="unit-ml" data-ml="60">60 ml</span>** pomerančový džus
-* **<span class="unit-ml" data-ml="60">60 ml</span>**-**<span class="unit-ml" data-ml="120">120 ml</span>** brusinkový
+* **<span class="unit-ml" data-ml="60">60 ml</span>**- **<span class="unit-ml" data-ml="120">120 ml</span>** brusinkový
   džus
 
 **Postup:** V šejkru s ledem vyšejkrujeme vodky a pomerančový džus. Nalijeme do sklenice. Krouživým pohybem dolijeme
@@ -244,6 +246,7 @@ brusinkový džus a lehce promíchneme pro barevný přechod.
 ---
 
 ## Liquid Marijuana
+
 * **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** Kokosový likér
 * **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** Tmavý nebo kořeněný rum
 * **<span class="unit-ml" data-ml="22.5">22.5 ml</span>** Melounový likér (např. Midori, Bolts)
